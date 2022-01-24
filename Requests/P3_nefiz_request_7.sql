@@ -1,6 +1,6 @@
 #7. Liste des communes où le nombre de ventes a augmenté d'au moins 20% entre le premier et le second trimestre de 2020 :
-WITH
 
+/*
 1. Je crée deux tables éphémères avec WITH :
 	a. Je calcule le nombre de ventes par commune au 1er trimestre 2020 en appliquant un COUNT sur l'Id_vente, 
 		je filtre sur le 1er trimestre 2020 avec un WHERE DatVente BETWEEN "AAAA-MM-JJ" AND "AAAA-MM-JJ" 
@@ -13,6 +13,8 @@ WITH
 4. Je regroupe les valeurs par Commune
 5. Et je formate le résultat final en lui appliquant un ROUND
 */
+
+WITH
 
 Ventes_1er_trim AS (
 	SELECT
