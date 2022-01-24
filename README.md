@@ -12,7 +12,7 @@ Implement a database to collect real estate and land transactions in France for 
 
 * <a href="https://github.com/donia-nefiz/Implementing-a-real-estate-database-with-SQL/blob/main/P3_nefiz_data_dictionnary_DATAIMMO.xlsx" target="_blank">dataimmo dictionnary</a>
 
-* <a href="https://github.com/donia-nefiz/Implementing-a-real-estate-database-with-SQL/tree/main/P3_nefiz_UML_diagram_DATAIMMO" target="_blank">uml diagram</a> (open file with <a href="draw.io">draw.io</a>)
+* <a href="https://github.com/donia-nefiz/Implementing-a-real-estate-database-with-SQL/tree/main/P3_nefiz_UML_diagram_DATAIMMO" target="_blank">uml diagram</a> (open file with <a href="https://app.diagrams.net/">draw.io</a>)
 
 * <a href="https://github.com/donia-nefiz/Implementing-a-real-estate-database-with-SQL/tree/main/P3_nefiz_conceptual_data_model_DATAIMMO" target="_blank">3NF relational schema</a> (open file with Power Architect Software)
 
