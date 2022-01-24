@@ -1,2 +1,2 @@
-# P3-OC-Creation-d-une-bdd-immobiliere-avec-SQL
-Création d'une base de données permettant de collecter les transactions immobilières et foncières en France pour une meilleure analyse du marché en soutien aux agences de Laplace Immo dans l'accompagnement de leurs clients.
+# Implementing a real estate database with SQL
+Implement a database to collect real estate and land transactions in France for Laplace Immo agencies and their clients.
