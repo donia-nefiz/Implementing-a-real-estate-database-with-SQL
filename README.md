@@ -2,7 +2,7 @@
 Implement a database to collect real estate and land transactions in France for Laplace Immo agencies and their clients.
 
 <u>Sources</u> :
->> <a href="data.gouv.fr">data.gouv.fr</a>
+>> <a href="https://www.data.gouv.fr/fr/" target="_blank">data.gouv.fr</a>
 
 <u> Selected data</u> :
 >> first semester 2020 (pilot)
