@@ -19,7 +19,7 @@ Implement a database to collect real estate and land transactions in France for 
 
 # Using MySQL as DBMS
 1. run <a href="https://github.com/donia-nefiz/Implementing-a-real-estate-database-with-SQL/blob/main/P3_nefiz_sql_tables_SGBD_DATAIMMO/table_create.sql" target="_blank">table_create.sql</a> as a SQL program on MySQL Workbench
-2. get cleaning data for feeding the DB <a href="https://github.com/donia-nefiz/Implementing-a-real-estate-database-with-SQL/blob/main/P3_nefiz_sql_tables_SGBD_DATAIMMO/table_create.sql" target="_blank">here</a>
+2. get cleaning data for feeding the DB <a href="https://github.com/donia-nefiz/Implementing-a-real-estate-database-with-SQL/tree/main/P3_nefiz_sql_tables_SGBD_DATAIMMO" target="_blank">here</a>
 3. import data on MySQL
 
 
